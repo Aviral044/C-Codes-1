@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605530809 source:c:\users\avira\desktop\c++ coding group\lapindromes\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstring>
+	<bits/stdc++.h>
+

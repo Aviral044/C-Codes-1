@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606034532 source:c:\users\avira\desktop\c++ coding group\smartphone\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
